@@ -53,7 +53,8 @@
                 <span>Coding Blog</span>
             </a>
         </div>
-
+        
+        {% if false %}
         <div class="{{ metadata_styles }}">
             <a href="https://dev.to/michaelcurrin"
                 class="tooltipped tooltipped-se {% if site.style == 'dark' %}text-white" {% endif %}
@@ -67,6 +68,7 @@
                 <span>@michaelcurrin</span>
             </a>
         </div>
+        {% endif %}
 
         {% if user.location %}
             <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
