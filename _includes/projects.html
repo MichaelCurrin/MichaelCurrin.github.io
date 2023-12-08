@@ -1,6 +1,10 @@
 <h2 {% if site.style == 'dark' %}class="text-white" {% endif %}>My Projects</h2>
 <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
-    My most popular repositories on GitHub.
+    {% if site.projects.sort_by == 'stars' %}
+    My most-starred repositories on GitHub.
+    {% else %}
+    My most recently active repositories on GitHub.
+    {% endif %}
 </p>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
     {% if site.projects.sort_by == 'stars' %}
