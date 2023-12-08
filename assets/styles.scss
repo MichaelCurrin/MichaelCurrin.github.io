@@ -75,20 +75,41 @@
 // Fix up squashed mobile view.
 
 body {
- padding: 1em; 
+ padding: 1em;
 }
 
 ul, ol {
  padding: 0 0 1em 1em;
 }
 
-p, ul {
+$primary: #4cadda;
+
+p, ul, table {
   a {
-    color: #a2c0e3;
+    color: $primary;
     text-decoration: underline;
   }
-  
+
   a:hover {
-    color: darken(#fff, 15%) !important;
+    color: darken($primary, 50%) !important;
+    text-decoration: none;
   }
+}
+
+// build.css makes the table too small, so modify it.
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+th, td {
+  padding: 8px 16px;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: darken($primary, 30%);
 }
