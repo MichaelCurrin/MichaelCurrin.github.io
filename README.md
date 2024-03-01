@@ -14,7 +14,7 @@
     <a href="https://michaelcurrin.github.io/">
         <img src="/sample.png"
            alt="Sample screenshot"
-           title="Go to site"
+           title="Go to website"
            width="500" />
     </a>
 </div>
