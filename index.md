@@ -6,9 +6,9 @@ layout: home
 
 I am a **Senior Software Engineer** with Backend and Fullstack experience.
 
-My first love is Python and my career is focused on Backend web development. I work in Amsterdam at a company in the energy and sustainability area, because making a difference to the world is important to me.
+My first love is Python and my career is focused on Backend web development.
 
-I like to **learn** from others and to giving **coaching** to colleagues and aspiring developers. Whether through hackathons, conferences, blogs, online forums or through one-on-one video chats.
+I like to **learn** from others and to giving **coaching** to colleagues and aspiring developers. Whether through hackathons, conferences, blogs, or tech meetups.
 
 ### Open Source Highlights
 
