@@ -16,10 +16,10 @@ Some highlights from my open source projects:
 
 Project | Description
 ---     | ---
-[Auto Commit Msg](https://marketplace.visualstudio.com/items?itemName=MichaelCurrin.auto-commit-msg) extension  | VS Code extension built in **TypeScript**. 100+ GitHub stars and 17k+ installs. ([repo](https://github.com/MichaelCurrin/auto-commit-msg))
-[GitHub Reporting Tool](https://michaelcurrin.github.io/github-reporting-py/#/) docs | CLI tool to make GitHub data reports using the **GraphQL API**. Built with **Python**.
-[GitHub GQL Go](https://github.com/MichaelCurrin/github-gql-go) CLI tool | Simpler version of the above. Built with **Go**.
-[Badge Generator](https://michaelcurrin.github.io/badge-generator/) webapp | Built in **Vue** and **TypeScript**. 270+ stars and 90+ forks. ([repo](https://github.com/MichaelCurrin/badge-generator))
+[Auto Commit Msg](https://marketplace.visualstudio.com/items?itemName=MichaelCurrin.auto-commit-msg) extension  | VS Code extension built in **TypeScript**. 120+ GitHub stars and 25k+ installs. ([repo](https://github.com/MichaelCurrin/auto-commit-msg))
+[GitHub Reporting Tool](https://michaelcurrin.github.io/github-reporting-py/#/) docs | CLI tool to make reports of GitHub data from the **GraphQL API**. Built with **Python**.
+[GitHub GQL Go](https://github.com/MichaelCurrin/github-gql-go) CLI tool | Basic version of the above, but built with **Go**.
+[Badge Generator](https://michaelcurrin.github.io/badge-generator/) webapp | Built in **Vue** and **TypeScript**. 300+ stars and 100+ forks. ([repo](https://github.com/MichaelCurrin/badge-generator))
 [Gist Viewer](https://michaelcurrin.github.io/gist-viewer/) webapp | Built with **Vue** and static assets (no Node, no build step). ([repo](https://github.com/MichaelCurrin/gist-viewer))
 
 ## Writing content
