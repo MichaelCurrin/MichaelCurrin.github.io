@@ -91,7 +91,10 @@
     "name": "jekyll-themed-site-quickstart",
     "homepage_url": "https://michaelcurrin.github.io/jekyll-themed-site-quickstart/",
   },
-  { "name": "logos", "homepage_url": "https://michaelcurrin.github.io/logos/" },
+  {
+    "name": "logos",
+    "homepage_url": "https://michaelcurrin.github.io/logos/"
+  },
   {
     "name": "mkdocs-quickstart",
     "homepage_url": "https://michaelcurrin.github.io/mkdocs-quickstart/",
@@ -139,6 +142,10 @@
   {
     "name": "rust-project-template",
     "homepage_url": "https://michaelcurrin.github.io/rust-project-template",
+  },
+  {
+    "name": "search-dragon",
+    "homepage_url": "https://michaelcurrin.github.io/search-dragon",
   },
   {
     "name": "simplest-jekyll",
