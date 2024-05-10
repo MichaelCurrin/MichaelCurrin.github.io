@@ -13,13 +13,11 @@ I then link to other sites in that sitemap, to ensure Google crawls them all.
 
 Sites listed in:
 
-- [\_data/gh_pages_sites.yml](/_data/gh_pages_sites.yml)
+- [\_data/gh_pages_sites.json](/_data/gh_pages_sites.json)
 
 I can preview as clickable links with:
 
 - [\_sites-test.md](/_sites-test.md)
-
-Currently ignore because of leading forward slash.
 
 
 ## Automated set up
