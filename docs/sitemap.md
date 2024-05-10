@@ -15,10 +15,13 @@ Sites listed in:
 
 - [\_data/gh_pages_sites.json](/_data/gh_pages_sites.json)
 
-I can preview as clickable links with:
+I can preview as clickable links with this page (not build because of leading underscore):
 
 - [\_sites-test.md](/_sites-test.md)
 
+Local testing in the browser as:
+
+- http://127.0.0.1:4000/sitemap.xml
 
 ## Automated set up
 
