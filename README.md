@@ -7,19 +7,6 @@
 [![Made with Jekyll](https://img.shields.io/badge/Jekyll-3.9-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
 [![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/)
 
-
-## Preview
-
-<div align="center">
-    <a href="https://michaelcurrin.github.io/">
-        <img src="/sample.png"
-           alt="Sample screenshot"
-           title="Go to website"
-           width="500" />
-    </a>
-</div>
-
-
 ## Website
 
 <div align="center">
