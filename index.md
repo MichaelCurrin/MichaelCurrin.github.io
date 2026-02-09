@@ -12,15 +12,17 @@ I like to **learn** from others and to giving **coaching** to colleagues and asp
 
 ### Open Source Highlights
 
-Some highlights from my open source projects:
+Here are my [Python projects](https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=python&sort=) on GitHub.
+
+Some highlights from my open source projects across stacks:
 
 Project | Description
 ---     | ---
-[Auto Commit Msg](https://marketplace.visualstudio.com/items?itemName=MichaelCurrin.auto-commit-msg) extension  | VS Code extension built in **TypeScript**. 120+ GitHub stars and 50k+ installs. ([repo](https://github.com/MichaelCurrin/auto-commit-msg))
+[Auto Commit Msg](https://marketplace.visualstudio.com/items?itemName=MichaelCurrin.auto-commit-msg) extension  | VS Code extension built in **TypeScript** to generate commit messages programmatically (without AI). 153+ GitHub stars and 56k+ installs. ([repo](https://github.com/MichaelCurrin/auto-commit-msg))
 [GitHub Reporting Tool](https://michaelcurrin.github.io/github-reporting-py/#/) docs | CLI tool to make reports of GitHub data from the **GraphQL API**. Built with **Python**.
 [GitHub GQL Go](https://github.com/MichaelCurrin/github-gql-go) CLI tool | Basic version of the above, but built with **Go**.
-[Badge Generator](https://michaelcurrin.github.io/badge-generator/) webapp | Built in **Vue** and **TypeScript**. 300+ stars and 100+ forks. ([repo](https://github.com/MichaelCurrin/badge-generator))
-[Gist Viewer](https://michaelcurrin.github.io/gist-viewer/) webapp | Built with **Vue** and static assets (no Node, no build step). ([repo](https://github.com/MichaelCurrin/gist-viewer))
+[Badge Generator](https://michaelcurrin.github.io/badge-generator/) webapp | Built in **Vue** and **TypeScript**. 467+ stars and 100+ forks. ([repo](https://github.com/MichaelCurrin/badge-generator))
+[Gist Viewer](https://michaelcurrin.github.io/gist-viewer/) webapp | Built with **Vue** and static assets (light, without Node or a build step). ([repo](https://github.com/MichaelCurrin/gist-viewer))
 
 ## Writing content
 
