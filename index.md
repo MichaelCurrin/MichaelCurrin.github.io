@@ -31,6 +31,7 @@ Project | Description
 [LLM Commit Msg (Python)](https://github.com/MichaelCurrin/llm-commit-msg-py) | CLI tool to generate a commit message using an LLM (Python)
 [LLM Commit Msg (VS Code)](https://github.com/MichaelCurrin/llm-commit-msg-vs-code) | Generate a commit message in VS Code Git sidebar using a local LLM (TypeScript)
 [Meditation App](https://github.com/MichaelCurrin/meditation-app) | Python-based meditation app powered by LLM for content and text-to-speech output
+[PDF local LLM](https://github.com/MichaelCurrin/pdf-local-llm/) | Convert a PDF to text and process the text through a local LLM
 [Easy Prompt](https://michaelcurrin.github.io/easy-prompt/) | Extend your prompt to get high quality results from an LLM (VueJS web app)
 [AI Cheatsheets](https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/artificial-intelligence/) | How to use some AI-related tools
 [AI Resources](https://michaelcurrin.github.io/dev-resources/resources/artificial-intelligence/) | Collection of resources relating to AI
