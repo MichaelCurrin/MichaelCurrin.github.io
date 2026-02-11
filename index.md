@@ -24,6 +24,17 @@ Project | Description
 [Badge Generator](https://michaelcurrin.github.io/badge-generator/) webapp | Built in **Vue** and **TypeScript**. 467+ stars and 100+ forks. ([repo](https://github.com/MichaelCurrin/badge-generator))
 [Gist Viewer](https://michaelcurrin.github.io/gist-viewer/) webapp | Built with **Vue** and static assets (light, without Node or a build step). ([repo](https://github.com/MichaelCurrin/gist-viewer))
 
+My AI-powered and AI-related repos:
+
+Project | Description
+---     | ---
+[LLM Commit Msg (Python)](https://github.com/MichaelCurrin/llm-commit-msg-py) | CLI tool to generate a commit message using an LLM (Python)
+[LLM Commit Msg (VS Code)](https://github.com/MichaelCurrin/llm-commit-msg-vs-code) | Generate a commit message in VS Code Git sidebar using a local LLM (TypeScript)
+[Meditation App](https://github.com/MichaelCurrin/meditation-app) | Python-based meditation app powered by LLM for content and text-to-speech output
+[Easy Prompt](https://michaelcurrin.github.io/easy-prompt/) | Extend your prompt to get high quality results from an LLM (VueJS web app)
+[AI Cheatsheets](https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/artificial-intelligence/) | How to use some AI-related tools
+[AI Resources](https://michaelcurrin.github.io/dev-resources/resources/artificial-intelligence/) | Collection of resources relating to AI
+
 ## Writing content
 
 I keep track of how to do things across many languages, frameworks, and operating systems by maintaining these sites which I created. They are open source too, if you want to request or submit a change.
